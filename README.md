@@ -1,8 +1,8 @@
 # SEBELUM MENJALANKAN SCNYA INSTALL MODULNYA DULU COPY DIBAWAH INI
 
-pkg update && pkg upgrade
-pkg install git
-pkg install figlet
+- pkg update && pkg upgrade
+- pkg install git
+- pkg install figlet
 
 # SESUDAH SEMUANYA KETIK SEPERTI DIBAWAH INI
 
@@ -15,3 +15,7 @@ pkg install figlet
 - ls
 
 - bash virus1.py
+
+# SELAMAT MENCOBA DAN JANGAN LUPA KASIH BINTANG
+
+- Subscribe My YouTube Channel : https://youtube.com/hendriktutorial 
