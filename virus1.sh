@@ -1,5 +1,8 @@
-﻿#!/system/bin/sh
+#!/system/bin/sh
 clear
+echo -e "\e[33m•••KALAU MAU RECORD IZIN DULU YAH KASIH CREDIT  \e[36mDAN JAMGAN DIUBAH AUTHORNYA\e[33m•••"
+echo " "
+echo -e "\e[1m\e[33m============================================\e[21m"
 echo -e "\e[33m•••SUBSCRIBE DULU LAH YA CHANNEL SAYA \e[36mKALAU GAK SUBSCRIBE GAK KONEK\e[33m•••"
 echo " "
 echo -e "\e[1m\e[33m============================================\e[21m"
@@ -94,11 +97,7 @@ echo -e "\e[93m\e[44mDAN JANGAN LUPA SUBSCRIBE CHANNEL SAYA BUNG DROID BIAR BERK
 echo -e "\e[49m"
 echo -e "\e[1m\e[91m××××××××××××××××××××××××××××××××××××××××××××\e[21m"
 sleep 1
-echo -e "\e[92m "
-read -r -s -p $'klik Enter Untuk Melanjutkan...\n'
-clear
 function back_option(){
-    clear
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
 echo -e "\e[31m"
 figlet "Bung"
